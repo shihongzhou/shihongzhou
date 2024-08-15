@@ -11,7 +11,7 @@
  * implementations incur.
  */
 /*
- * Safnuex S01E01C01-1
+ * Safnuex S01E08C02-8
  * For function safety usage, Safnuex safetyassurance toolchain 
  * shall be used and Safnuex linux safety manual shall be followed.
  * Functional safety support: <S01@safenux.com>

@@ -13,7 +13,7 @@
  * Authors: Waiman Long <longman@redhat.com>
  */
 /*
- * Safnuex S01E08C01-7
+ * Safnuex S01E08C02-7
  * For function safety usage, Safnuex safetyassurance toolchain 
  * shall be used and Safnuex linux safety manual shall be followed.
  * Functional safety support: <S01@safenux.com>
